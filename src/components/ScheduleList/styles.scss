@@ -1,0 +1,59 @@
+@import "../sass/colors";
+.schedule-list {
+  padding: 10px 30px;
+  color: $grey800;
+  .schedule-title {
+    font-size: 18px;
+    //display: flex;
+    //justify-content: "flex-start";
+    margin: 4px 0;
+
+    color: $primary-color;
+    .theme {
+      font-weight: bold;
+      padding-left: 10px;
+    }
+
+    .time {
+      font-family: "Roboto Mono", Menlo, Monaco, Consolas, "Courier New",
+        monospace;
+      //margin: 0 30px;
+    }
+    .format {
+      margin-left: 5px;
+      color: $grey700;
+      font-style: italic;
+      font-size: smaller;
+    }
+  }
+  .schedule-description {
+    padding-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    .keynote {
+      .keynote-abstract {
+        //font-size: 12px;
+        color: $grey600;
+      }
+    }
+    .paper {
+      margin-top: 10px;
+      .paper-title {
+        //font-weight: bold;
+      }
+      .paper-type {
+        //margin-left: 10px;
+        margin-right: 10px;
+      }
+      .paper-author {
+        //font-size: 12px;
+        color: $grey600;
+      }
+      a {
+        vertical-align: sub;
+        color: $grey500;
+        text-decoration: none;
+      }
+    }
+  }
+}

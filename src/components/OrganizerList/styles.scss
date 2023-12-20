@@ -1,0 +1,55 @@
+@import "../sass/colors";
+
+.organizer-list {
+  $padding: 10px;
+  .entry {
+    //display: flex;
+    display: block;
+    text-decoration: none;
+    color: $grey800;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    padding: $padding;
+    .avatar {
+      width: calc(min(100px, 30vw));
+      height: calc(min(100px, 30vw));
+      margin: 5px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .name {
+      font-size: 1.2rem;
+      font-weight: bold;
+      margin-right: 1rem;
+    }
+    .affiliation {
+      .iconlink {
+        vertical-align: sub;
+      }
+    }
+    .description {
+      height: 90%;
+      padding: 10px;
+      overflow: auto;
+      text-align: left;
+      margin-right: 1rem;
+      background-color: $grey50;
+      color: $grey900;
+      opacity: 0;
+      display: none;
+      position: absolute;
+      top: $padding;
+      left: $padding;
+      &.visible {
+        display: block;
+        z-index: 10;
+        font-size: 14px;
+        font-weight: 450;
+        opacity: 0.9;
+      }
+    }
+  }
+}

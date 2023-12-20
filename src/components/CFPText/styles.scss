@@ -1,0 +1,59 @@
+@import "../sass/colors";
+
+.cfp-text {
+  padding: 10px 30px;
+  line-height: 1.6;
+  .info-title {
+    font-weight: bold;
+    text-transform: uppercase;
+    color: $pink800;
+  }
+  p {
+    padding-left: 30px;
+  }
+  .date-wrapper {
+    width: calc(min(100%, 600px));
+  }
+
+  .info-block-wrapper {
+    padding-top: 10px;
+    .info-block {
+      //width: calc(50% - 10px);
+      //border: 1px solid $grey200;
+      padding: 10px;
+      background-color: $grey100;
+    }
+    margin-bottom: 20px;
+  }
+
+  .row {
+    display: flex;
+    margin: 4px 0;
+    //justify-content: space-between;
+    > div {
+      margin-right: 20px;
+    }
+    .row-key {
+      font-weight: bold;
+      color: $grey800;
+      width: 60px;
+      &.long {
+        width: 150px;
+      }
+      //text-transform: uppercase;
+    }
+    .row-value {
+      width: calc(100% - 90px);
+      &.passed-date {
+        color: #5f6368;
+        text-decoration: line-through;
+      }
+    }
+  }
+  .description {
+    width: 100%;
+    display: block;
+    color: $grey600;
+    font-style: italic;
+  }
+}

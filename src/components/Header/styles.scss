@@ -1,0 +1,78 @@
+@import "../sass/colors";
+@import "../sass/layouts";
+
+.app-header {
+  background-color: $white;
+  color: $grey100;
+  display: flex;
+  justify-content: space-between;
+  align-items: stretch;
+  width: 100%;
+  height: $header-height;
+  padding: 0 16px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+
+  .year {
+    font-size: 20px;
+
+    line-height: $header-height;
+    font-weight: bold;
+    color: white;
+    line-height: $header-height;
+  }
+
+  .logo {
+    height: 60px;
+  }
+  .toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  h1 {
+    font-size: 24px;
+    font-weight: 500;
+    color: white;
+    line-height: $header-height;
+  }
+
+  nav {
+    margin-left: 60px;
+
+    ul,
+    li {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    ul {
+      display: flex;
+    }
+  }
+  .option,
+  a {
+    color: $grey200;
+    display: flex;
+    font-weight: 500;
+    font-weight: bold;
+    padding: 0 20px;
+    line-height: $header-height;
+    text-decoration: none;
+    box-sizing: border-box;
+    cursor: pointer;
+    &:hover,
+    &.selected {
+      color: $grey900;
+      box-shadow: 0 -2px 0 $pink500 inset;
+    }
+  }
+}
+
+.menu-option {
+  text-decoration: none;
+  color: $grey700;
+  font-weight: 500;
+}

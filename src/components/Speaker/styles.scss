@@ -1,0 +1,22 @@
+@import "../sass/colors";
+.speaker-list {
+  padding: 10px 30px;
+  color: $grey800;
+  .speaker {
+    display: flex;
+    > * {
+      margin: 4px 30px;
+    }
+    .avatar {
+      width: calc(min(100px, 5vw));
+      height: calc(min(100px, 5vw));
+      margin: 5px;
+    }
+    .name {
+      color: $primary-color;
+    }
+  }
+  .divider {
+    margin: 10px 0;
+  }
+}

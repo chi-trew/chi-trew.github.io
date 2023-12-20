@@ -1,0 +1,226 @@
+[
+  {
+    "paper_id": 20,
+    "session_id": -1.0,
+    "paper_order": -1.0,
+    "title": "The Importance of Trust and Acceptance in User-Centred XAI - Practical Implications for a Manufacturing Scenario",
+    "authors": "Erika Puiutta, Larbi Abdenebaoui and Susanne Boll",
+    "type": "Poster"
+  },
+  {
+    "paper_id": 46,
+    "session_id": 1.0,
+    "paper_order": 0.0,
+    "title": "The Impact of Explanations on Fairness in Human-AI Decision Making: Protected vs Proxy Features",
+    "authors": "Navita Goyal, Connor Baumler, Tin Nguyen and Hal Daum\u00e9",
+    "type": "Talk"
+  },
+  {
+    "paper_id": 7,
+    "session_id": 0.0,
+    "paper_order": 0.0,
+    "title": "Dunning-Kruger Effect Can Hinder Appropriate Reliance on AI Systems",
+    "authors": "Gaole He, Lucie Kuiper and Ujwal Gadiraju",
+    "type": "Talk"
+  },
+  {
+    "paper_id": 8,
+    "session_id": 1.0,
+    "paper_order": 1.0,
+    "title": "Explanations, Fairness, and Appropriate Reliance in Human-AI Decision-Making",
+    "authors": "Jakob Schoeffer, Maria De-Arteaga and Niklas Kuehl",
+    "type": "Talk"
+  },
+  {
+    "paper_id": 13,
+    "session_id": 2.0,
+    "paper_order": 0.0,
+    "title": "Does More Advice Help? The Effects of Second Opinions from Peers in AI-Assisted Decision Making",
+    "authors": "Zhuoran Lu, Dakuo Wang and Ming Yin",
+    "type": "Talk"
+  },
+  {
+    "paper_id": 14,
+    "session_id": 0.0,
+    "paper_order": 1.0,
+    "title": "Introducing the trustworthiness assessment model and its implications for research on trust in artificial intelligence",
+    "authors": "Nadine Schlicker and Markus Langer",
+    "type": "Talk"
+  },
+  {
+    "paper_id": 17,
+    "session_id": 0.0,
+    "paper_order": 2.0,
+    "title": "Chatbots as decision aids: investigating reliance in Human-Chatbot collaboration vs. Human-Human collaboration",
+    "authors": "Cl\u00e9lie Amiot, Fran\u00e7ois Charoy and J\u00e9r\u00f4me Dinet",
+    "type": "Talk"
+  },
+  {
+    "paper_id": 18,
+    "session_id": 2.0,
+    "paper_order": 1.0,
+    "title": "Team At Your Service: Can Multiple Conversational Agents Increase Functional Specificity in Automated Driving?",
+    "authors": "Dinara Talypova and Philipp Wintersberger",
+    "type": "Talk"
+  },
+  {
+    "paper_id": 34,
+    "session_id": 2.0,
+    "paper_order": 2.0,
+    "title": "Are Machine Rationales (Not) Useful to Humans? Measuring and Improving Human Utility of Free-text Rationales",
+    "authors": "Brihi Joshi, Ziyi Liu, Sahana Ramnath, Aaron Chan, Zhewei Tong, Qifan Wang, Yejin Choi and Xiang Ren",
+    "type": "Talk"
+  },
+  {
+    "paper_id": 37,
+    "session_id": 0.0,
+    "paper_order": 3.0,
+    "title": "Measuring, Predicting, and Leveraging Trust for Proactive Dialog in Human-AI Teams",
+    "authors": "Matthias Kraus",
+    "type": "Talk"
+  },
+  {
+    "paper_id": 6,
+    "session_id": -1.0,
+    "paper_order": -1.0,
+    "title": "Distrust in (X)AI - Measurement Artifact or Distinct Construct?",
+    "authors": "Nicolas Scharowski and Sebastian A.C. Perrig",
+    "type": "Poster"
+  },
+  {
+    "paper_id": 9,
+    "session_id": -1.0,
+    "paper_order": -1.0,
+    "title": "Humans, AI, and Context: Understanding End-Users\u2019 Trust in a Real-World Computer Vision Application",
+    "authors": "Sunnie S. Y. Kim, Elizabeth Watkins, Olga Russakovsky, Ruth Fong and Andr\u00e9s Monroy-Hern\u00e1ndez",
+    "type": "Poster"
+  },
+  {
+    "paper_id": 22,
+    "session_id": -1.0,
+    "paper_order": -1.0,
+    "title": "Designing AI for Appropriation Will Calibrate Trust",
+    "authors": "Zelun Tony Zhang, Yuanting Liu and Andreas Butz",
+    "type": "Poster"
+  },
+  {
+    "paper_id": 23,
+    "session_id": 1.0,
+    "paper_order": 2.0,
+    "title": "Addressing Trust Repair for AI Ethicality: The Influence of Team Role and Violation Type",
+    "authors": "Beau Schelble, Subhasree Sengupta, Alyssa Williams and Nathan McNeese",
+    "type": "Talk"
+  },
+  {
+    "paper_id": 36,
+    "session_id": -1.0,
+    "paper_order": -1.0,
+    "title": "Co-Design of Autonomous Drones for Interactions with Bystanders",
+    "authors": "Eyal Ginosar, Susanna Kraemer, Marion Koelle, Heiko M\u00fcller, Susanne Boll and Jessica Cauchard",
+    "type": "Poster"
+  },
+  {
+    "paper_id": 44,
+    "session_id": -1.0,
+    "paper_order": -1.0,
+    "title": "Chronic Heart Patients Perspectives on 30-Day ML-based Predictions: Exploring Implications for Self-Care Practice and Patient-Physician Collaboration",
+    "authors": "Tariq Andersen, Stina Matthiesen and Emil Vogt S\u00f8rensen",
+    "type": "Poster"
+  },
+  {
+    "paper_id": 27,
+    "session_id": 2.0,
+    "paper_order": 3.0,
+    "title": "I Think You Might Like This': Exploring Effects of Confidence Signal Patterns on Trust in and Reliance on Conversational Recommender Systems",
+    "authors": "Marissa Radensky, Julie Anne S\u00e9guin, Jang Soo Lim, Kristen Olson and Robert Geiger",
+    "type": "Talk"
+  },
+  {
+    "paper_id": 29,
+    "session_id": -1.0,
+    "paper_order": -1.0,
+    "title": "Human and AI Trust: Trust Attitude Measurement Instrument Development",
+    "authors": "Retno Larasati, Anna De Liddo and Enrico Motta",
+    "type": "Poster"
+  },
+  {
+    "paper_id": 30,
+    "session_id": -1.0,
+    "paper_order": -1.0,
+    "title": "Human-AI Trust Calibration Should Be Contextual and Continuous",
+    "authors": "Steven R. Gomez, Kevin K. Nam, Kimberlee Chestnut Chang, Gregg Marcus and Erin K. Chiou",
+    "type": "Poster"
+  },
+  {
+    "paper_id": 39,
+    "session_id": -1.0,
+    "paper_order": -1.0,
+    "title": "A Task-based Metric for Measuring Trust in Autonomous Robots for Everyday Activities",
+    "authors": "Rachel Ringe and Robert Porzel",
+    "type": "Poster"
+  },
+  {
+    "paper_id": 31,
+    "session_id": -1.0,
+    "paper_order": -1.0,
+    "title": "Evaluating User Trust in Active Learning Systems Through Query Policy and Uncertainty Visualization",
+    "authors": "Ian Thomas and Danielle Szafir",
+    "type": "Poster"
+  },
+  {
+    "paper_id": 35,
+    "session_id": -1.0,
+    "paper_order": -1.0,
+    "title": "Eyes Are the Windows to AI Reliance: Towards Real-Time Human-AI Reliance Assessment",
+    "authors": "Shiye Cao, Shichang Ke, Yanyan Mo, Anqi Liu and Chien-Ming Huang",
+    "type": "Poster"
+  },
+  {
+    "paper_id": 42,
+    "session_id": -1.0,
+    "paper_order": -1.0,
+    "title": "You haven't changed a bit! Initial Findings from a Bibliometric Analysis of Two Decades of Empirical Trust in AI Research",
+    "authors": "Michaela Benk, Sophie Kerstan and Andrea Ferrario",
+    "type": "Poster"
+  },
+  {
+    "paper_id": 4,
+    "session_id": -1.0,
+    "paper_order": -1.0,
+    "title": "The Duet of Representations and How Explanations Exacerbate It",
+    "authors": "Charles Wan, Rodrigo Belo, Leid Zejnilovic and Susana Lavado",
+    "type": "Poster"
+  },
+  {
+    "paper_id": 26,
+    "session_id": -1.0,
+    "paper_order": -1.0,
+    "title": "Simplicity is Complexity Resolved: Considering Task Complexity in Empirical HC(X)AI Studies",
+    "authors": "Sara Salimzadeh and Ujwal Gadiraju",
+    "type": "Poster"
+  },
+  {
+    "paper_id": 41,
+    "session_id": -1.0,
+    "paper_order": -1.0,
+    "title": "Trust and Reliance in Compositional Control Teams",
+    "authors": "Kazuhiko Momose, Troy Weekes, Thomas Eskridge and Daniel Kidwell",
+    "type": "Poster"
+  },
+  {
+    "paper_id": 45,
+    "session_id": -1.0,
+    "paper_order": -1.0,
+    "title": "Background Explanations Reduce User's Over-reliance on AI: A Case Study on Multi-Hop Question Answering",
+    "authors": "Navita Goyal, Eleftheria Briakou, Marine Carpuat and Hal Daum\u00e9 III",
+    "type": "Poster"
+  },
+  {
+    "paper_id": 12,
+    "session_id": -1.0,
+    "paper_order": -1.0,
+    "title": "Responsible Human-AI Teaming: Interface Designs to Promote Bias Awareness in Human-AI Fact-checking Teams",
+    "authors": "Caitlin Lancaster, Heba Aly, Subhasree Sengupta and Nathan McNeese",
+    "type": "Poster"
+  }
+]

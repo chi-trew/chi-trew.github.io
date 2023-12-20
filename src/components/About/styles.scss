@@ -1,0 +1,39 @@
+@import "../sass/colors";
+
+.about-div {
+  padding: 10px 30px;
+
+  .dates {
+    //margin: auto;
+    text-align: center;
+    .col {
+      background-color: $grey100;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      width: 100%;
+    }
+    .col-key {
+      color: $grey700;
+      text-transform: uppercase;
+      font-size: 20px;
+      font-weight: bold;
+    }
+    .col-value {
+      color: $primary-color;
+      margin-top: 5px;
+      font-size: 18px;
+      //font-weight: 600;
+      .icon {
+        vertical-align: sub;
+      }
+      &.passed-date {
+        color: #5f6368;
+        text-decoration: line-through;
+      }
+    }
+  }
+  .description {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+}

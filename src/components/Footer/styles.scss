@@ -1,0 +1,13 @@
+@import "../sass/colors";
+
+.footer {
+  background-color: $grey50;
+  padding: 20px 50px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  font-style: italic;
+  .icon {
+    vertical-align: sub;
+  }
+}

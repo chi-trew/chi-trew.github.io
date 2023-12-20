@@ -1,0 +1,59 @@
+[
+  {
+    "session": "Frameworks & Measuring Trust and Reliance",
+    "papers": [
+      "(long) Under-reliance or misalignment? How proxy outcomes limit measurement of appropriate reliance in AI-assisted decision-making",
+      "(long) Should I Follow AI-based Advice? Measuring Appropriate Reliance in Human-AI Decision-Making",
+      "(short) MATCH: A Conceptual Model on Trust Judgments in AI Towards Designing for Responsible Trust",
+      "(short) The Value of Measuring Trust in AI – A Socio-Technical System Perspective",
+      "(short) Behavioral Measures of Trust in Human-autonomy Teams",
+      "(short) Review: Mathematical Models for Trust in Human-Automation Interactions",
+      "(short) Perceive, Understand & Predict - Empirical Indication for Facets in Subjective Information Processing Awareness",
+      "(short) Are we measuring trust correctly in explainability, interpretability, and transparency research?",
+      "(short) Exploring Trust Indicators in Human-Agent Conversation with Epistemic Network Analysis",
+      "(short) Towards a Generalized Scale to Measure Situational Trust in AI Systems",
+      "(short) Trust and Reliance in XAI - Distinguishing Between Attitudinal and Behavioral Measures",
+      "(short) Pragmatic delegation of work by humans and machines",
+      "(short) Towards a Framework for Evaluating Trust Based on User Confidence in Outcomes in the Human-AI Collaboration Setting",
+      "(short, encore) Dynamics of Human Trust in Recommender Systems"
+    ]
+  },
+  {
+    "session": "Factors and Strategies for Shaping Trust and Reliance",
+    "papers": [
+      "(long) Shaping Trust in Machine Translation Suggestions Through AI-Assisted Context Building",
+      "(long) Impact of Awareness Cues on Trust in Human-AI Shared Control",
+      "(long) Exploring How Anomalous Model Input and Output Alerts Affect Decision-Making in Healthcare",
+      "(long) The Disagreement Problem in Explainable Machine Learning: A Practitioner's Perspective",
+      "(short) How Can AI Earn Trust of System Administrators in the IT-Security Domain?",
+      "(short) Beyond General Purpose Machine Translation: The Need for Context-specific Empirical Research to Design for Appropriate User Trust",
+      "(short) Doubting AI Predictions: Influence-Driven Second Opinion Recommendation",
+      "(short) When Do XAI Methods Work? A Cost-Benefit Approach to Human-AI Collaboration",
+      "(short) An Empirical Investigation of Reliance on AI-Assistance in a Noisy-Image Classification Task",
+      "(short) Trust and Reliance in Human-AI Collaborative Text Summarization",
+      "(short) Walking on Eggshells: Using Analogies to Promote Appropriate Reliance in Human-AI Decision Making",
+      "(short, encore) ​​Teaching Humans When To Defer to a Classifier via Exemplars",
+      "(short, encore) Exploring the Effect of Value Similarity on Trust in Human-AI Interaction",
+      "(short) Do Exact Explanations Make a Difference? A Case Study Among Weight Management Experts"
+    ]
+  },
+  {
+    "session": "Understanding Needs & New Perspectives",
+    "papers": [
+      "(long) Vulnerability, Trust, and AI",
+      "(long) The Look of Trust: How Does Physical Embodiment Shape Trust in Human-Agent Interaction?",
+      "(long) Addressing the Spread of Trust and Distrust in Distributed Human-AI Teaming Constellations",
+      "(long) Building Trust by Supporting Situation Awareness: Exploring Pilots' Design Requirements for Decision Support Tools",
+      "(short) Trust and explainability as tools for improving automated writing evaluation",
+      "(short) Understanding non-adoption of ``optimal'' algorithmic tips for problem-solving: how people view and use tips and the barriers they encounter",
+      "(short) Trust in AI in Under-resourced Environments: Lessons from Local Journalism",
+      "(short) Towards Understanding Trust and Reassurance in Human-Robot Teams: A User Study with a UV-C Disinfection Robot",
+      "(short) Towards a Framework for Trust in Clinical AI: Expanding the Unit of Analysis",
+      "(short, encore) Investigations of Performance and Bias in Human-AI Teamwork in Hiring",
+      "(short, encore) Improving Human-AI Partnerships in Child Welfare: Understanding Worker Practices, Challenges, and Desires for Algorithmic Decision Support",
+      "(short, encore) Recognizing the Problem of High Trust",
+      "(short) AI for human assessment: What do professional assessors need?",
+      "(short) ​​User Trust on an Explainable AI-based Medical Diagnosis Support System"
+    ]
+  }
+]

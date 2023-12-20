@@ -1,0 +1,4 @@
+$header-height: 60px;
+$foot-height: 0px; ///100px;
+
+$main-height: calc(100vh - #{$header-height} - #{$foot-height});

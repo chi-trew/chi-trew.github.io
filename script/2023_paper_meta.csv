@@ -1,0 +1,46 @@
+#,Author,Title,Scores,Average,Decision,Session
+20,"Erika Puiutta, Larbi Abdenebaoui and Susanne Boll",The Importance of Trust and Acceptance in User-Centred XAI - Practical Implications for a Manufacturing Scenario,"2(2),3(4),2(4)",2.3,accept?,-1
+46,"Navita Goyal, Connor Baumler, Tin Nguyen and Hal Daumé",The Impact of Explanations on Fairness in Human-AI Decision Making: Protected vs Proxy Features,"2(3),3(4),2(4)",2.3,ACCEPT,-1
+7,"Gaole He, Lucie Kuiper and Ujwal Gadiraju",Dunning-Kruger Effect Can Hinder Appropriate Reliance on AI Systems,"2(4),2(4),2(5)",2,ACCEPT,-1
+8,"Jakob Schoeffer, Maria De-Arteaga and Niklas Kuehl","Explanations, Fairness, and Appropriate Reliance in Human-AI Decision-Making","2(5),2(4),2(4)",2,ACCEPT,-1
+13,"Zhuoran Lu, Dakuo Wang and Ming Yin",Does More Advice Help? The Effects of Second Opinions from Peers in AI-Assisted Decision Making,"2(4),2(4),2(4)",2,ACCEPT,-1
+14,Nadine Schlicker and Markus Langer,Introducing the trustworthiness assessment model and its implications for research on trust in artificial intelligence,"2(4),2(5),2(4)",2,ACCEPT,-1
+17,"Clélie Amiot, François Charoy and Jérôme Dinet",Chatbots as decision aids: investigating reliance in Human-Chatbot collaboration vs. Human-Human collaboration,"2(4),2(4),2(4)",2,ACCEPT,-1
+18,Dinara Talypova and Philipp Wintersberger,Team At Your Service: Can Multiple Conversational Agents Increase Functional Specificity in Automated Driving?,"2(3),2(4),2(4)",2,ACCEPT,-1
+34,"Brihi Joshi, Ziyi Liu, Sahana Ramnath, Aaron Chan, Zhewei Tong, Qifan Wang, Yejin Choi and Xiang Ren",Are Machine Rationales (Not) Useful to Humans? Measuring and Improving Human Utility of Free-text Rationales,"1(3),3(4),2(4)",2,ACCEPT,-1
+37,Matthias Kraus,"Measuring, Predicting, and Leveraging Trust for Proactive Dialog in Human-AI Teams","2(3),2(4)",2,ACCEPT,-1
+6,Nicolas Scharowski and Sebastian A.C. Perrig,Distrust in (X)AI - Measurement Artifact or Distinct Construct?,"2(4),2(3),1(4)",1.7,accept?,-1
+9,"Sunnie S. Y. Kim, Elizabeth Watkins, Olga Russakovsky, Ruth Fong and Andrés Monroy-Hernández","Humans, AI, and Context: Understanding End-Users’ Trust in a Real-World Computer Vision Application","1(4),1(4),3(4)",1.7,accept?,-1
+22,"Zelun Tony Zhang, Yuanting Liu and Andreas Butz",Designing AI for Appropriation Will Calibrate Trust,"0(4),3(4),2(4)",1.7,accept?,-1
+23,"Beau Schelble, Subhasree Sengupta, Alyssa Williams and Nathan McNeese",Addressing Trust Repair for AI Ethicality: The Influence of Team Role and Violation Type,"1(3),2(4),2(4)",1.7,ACCEPT,-1
+36,"Eyal Ginosar, Susanna Kraemer, Marion Koelle, Heiko Müller, Susanne Boll and Jessica Cauchard",Co-Design of Autonomous Drones for Interactions with Bystanders,"3(3),1(3),1(4)",1.7,accept?,-1
+44,"Tariq Andersen, Stina Matthiesen and Emil Vogt Sørensen",Chronic Heart Patients Perspectives on 30-Day ML-based Predictions: Exploring Implications for Self-Care Practice and Patient-Physician Collaboration,"2(3),1(4)",1.5,accept?,-1
+27,"Marissa Radensky, Julie Anne Séguin, Jang Soo Lim, Kristen Olson and Robert Geiger",I Think You Might Like This': Exploring Effects of Confidence Signal Patterns on Trust in and Reliance on Conversational Recommender Systems,"-1(3),3(4),2(4)",1.3,ACCEPT,-1
+29,"Retno Larasati, Anna De Liddo and Enrico Motta",Human and AI Trust: Trust Attitude Measurement Instrument Development,"3(4),-2(4),3(5)",1.3,accept?,-1
+30,"Steven R. Gomez, Kevin K. Nam, Kimberlee Chestnut Chang, Gregg Marcus and Erin K. Chiou",Human-AI Trust Calibration Should Be Contextual and Continuous,"2(3),1(4),1(4)",1.3,accept?,-1
+39,Rachel Ringe and Robert Porzel,A Task-based Metric for Measuring Trust in Autonomous Robots for Everyday Activities,"1(4),1(2),2(4)",1.3,accept?,-1
+31,Ian Thomas and Danielle Szafir,Evaluating User Trust in Active Learning Systems Through Query Policy and Uncertainty Visualization,"3(3),-1(4),1(4)",1,accept?,-1
+35,"Shiye Cao, Shichang Ke, Yanyan Mo, Anqi Liu and Chien-Ming Huang",Eyes Are the Windows to AI Reliance: Towards Real-Time Human-AI Reliance Assessment,"0(3),2(4)",1,accept?,-1
+15,"Martin Dechant, Olga Lukashova-Sanz and Siegried Wahl",In the user's eyes we find trust: Using gaze data as a predictor or trust in an artifical intelligence,"1(5),0(5),1(4)",0.7,reject?,-1
+25,"Melanie McGrath, Andreas Duenser, Justine Lacey and Cecile Paris",Trust in collaborative intelligence: A recurring phase framework of trust in human-AI collaboration,"3(3),-1(3),0(4)",0.7,reject?,-1
+42,"Michaela Benk, Sophie Kerstan and Andrea Ferrario",You haven't changed a bit! Initial Findings from a Bibliometric Analysis of Two Decades of Empirical Trust in AI Research,"1(4),0(3),1(4)",0.7,accept?,-1
+1,"Hubert Baniecki, Dariusz Parzych and Przemyslaw Biecek",The grammar of interactive explanatory model analysis,"2(4),-2(3),1(4)",0.3,reject?,-1
+3,Gionnieve Lim and Simon Perrault,Externalizing and Verbalizing to More Adequately Measure Trust in AI,"1(4),0(4),0(5)",0.3,reject?,-1
+4,"Charles Wan, Rodrigo Belo, Leid Zejnilovic and Susana Lavado",The Duet of Representations and How Explanations Exacerbate It,"2(3),-2(4),1(4)",0.3,accept?,-1
+16,"Sven Eckhardt, Merlin Knaeble, Mateusz Dolata, Alexander Maedche and Gerhard Schwabe",On the Notion of Multi-Party AI Reliance: Learning From AI-Based Price Estimations in the Used-Car Market,"-1(5),3(5),-1(4)",0.3,reject?,-1
+26,Sara Salimzadeh and Ujwal Gadiraju,Simplicity is Complexity Resolved: Considering Task Complexity in Empirical HC(X)AI Studies,"-1(3),1(3),1(5)",0.3,accept?,-1
+41,"Kazuhiko Momose, Troy Weekes, Thomas Eskridge and Daniel Kidwell",Trust and Reliance in Compositional Control Teams,"1(4),1(3),-1(4)",0.3,accept?,-1
+45,"Navita Goyal, Eleftheria Briakou, Marine Carpuat and Hal Daumé III",Background Explanations Reduce User's Over-reliance on AI: A Case Study on Multi-Hop Question Answering,"2(4),1(5),-2(4)",0.3,accept?,-1
+19,"Sander de Jong, Joel Wester and Niels van Berkel",Trust Calibration in Non-Dyadic Human-AI Teams,"-1(4),2(5),-1(4)",0,reject?,-1
+21,"Stina Klein, Katharina Weitz and Elisabeth André",Are Explanations All We Need? Investigating the Impact of XAI on Robot Failures and Trust Recovery in Human-Robot Cooperation Tasks,"-1(4),1(4),0(4)",0,reject?,-1
+28,Shubham Atreja,A Framework for Designing Explanations for AI-Assisted Decision Making,"1(2),-1(3),0(3)",0,reject?,-1
+33,Teresa Datta and John Dickerson,Who’s Thinking? : A Push for Human-Centered Evaluation of LLMs using the XAI Playbook,"1(4),0(5),-1(4)",0,reject?,-1
+40,"Jakob Schoeffer, Johannes Jakubik, Michael Voessing, Niklas Kuehl and Gerhard Satzger",On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making,"2(3),-2(4),0(4)",0,reject?,-1
+2,Mark Colley and Enrico Rukzio,On the Difficulty of Calibrated Trust In Automated Vehicles,"-1(3),-1(3),-1(4)",-1,reject?,-1
+11,"Philipp Schreck, Artur Klingbeil and Cassandra Grützner",Overtrust in algorithms – An online behavioral study,"0(5),-2(5),-1(4)",-1,reject?,-1
+12,"Caitlin Lancaster, Heba Aly, Subhasree Sengupta and Nathan McNeese",Responsible Human-AI Teaming: Interface Designs to Promote Bias Awareness in Human-AI Fact-checking Teams,"-1(2),-2(4),0(4)",-1,accept?,-1
+43,"Max Schemmer, Patrick Hemmer, Niklas Kuehl, Michael Vössing and Gerhard Satzger",Towards a Framework for Complementarity in Human-AI Collaboration,"-1(4),-1(4),-1(4)",-1,reject?,-1
+10,"Max Pascher, Kirill Kronhardt and Jens Gerken",Can I get You Anything Else? --- Increasing Human's Trust in an Autonomous Robot by the Use of an Avatar,"-2(3),0(4),-2(4)",-1.3,reject?,-1
+32,"Simret Araya Gebreegziabher, Ava DeCroix and Toby Jia-Jun Li","VolunTIERing: Balancing Flexibility, Engagement, and Shared Task Context for Sustainable Online Volunteering","-2(4),-1(4),-1(4)",-1.3,reject?,-1
+38,"Emilia Wiśnios, Michał Tyrolski, Stanisław Giziński, Hubert Baniecki and Przemysław Biecek",Does Conscientiousness Matter? Examining the Influence of Personality Traits on Human-AI Decision Making,"0(4),-2(3),-2(5)",-1.3,reject?,-1
+24,"Katharina Jahn, Felix Krieglstein, Lewis L. Chuang and Günter Daniel Rey",Building an Appropriate Level of Trust with Conversational Agents as Team Partners for Learning,"-2(4),-2(4),-2(4)",-2,reject?,-1

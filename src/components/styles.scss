@@ -1,0 +1,87 @@
+@import "./sass/colors";
+@import-normalize;
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  color: $grey900;
+  line-height: 1.5;
+  //font-size: 20px;
+  letter-spacing: 0.00938em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-y: hidden;
+  background-color: $grey50;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Google Sans Display", sans-serif;
+  margin: 0;
+  font-weight: normal;
+  > small {
+    color: $grey700;
+    font-style: italic;
+  }
+}
+
+code {
+  font-family: "Roboto Mono", Menlo, Monaco, Consolas, "Courier New", monospace;
+  box-sizing: border-box;
+  overflow: auto;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+  height: 100vh;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.full-height {
+  height: 100%;
+}
+
+.material-icons {
+  padding: 0;
+}
+
+.subtitle-text {
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.2;
+  .MuiInputBase-input {
+    font-size: 1.1rem;
+  }
+}
+.caption-text {
+  font-size: 0.8rem;
+  font-weight: 400;
+  line-height: 1.66;
+  .MuiInputBase-input {
+    font-size: 0.8rem;
+  }
+}
+
+.ellipsis {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  //display: inline-block;
+}
+
+.text-highlight {
+  color: $primary-color;
+}

@@ -1,0 +1,380 @@
+[
+  {
+    "paper_id": 49,
+    "session_id": 0,
+    "paper_order": 0,
+    "title": "Under-reliance or misalignment? How proxy outcomes limit measurement of appropriate reliance in AI-assisted decision-making",
+    "authors": "Luke Guerdan, Kenneth Holstein and Steven Wu",
+    "type": "long",
+    "is_encore": false
+  },
+  {
+    "paper_id": 47,
+    "session_id": 1,
+    "paper_order": 0,
+    "title": "Facilitating Translator Trust in Machine Translation Suggestions Through AI-Assisted Context Building",
+    "authors": "Jordan Huffaker and Sai Gouravajhala",
+    "type": "long",
+    "is_encore": false
+  },
+  {
+    "paper_id": 19,
+    "session_id": 2,
+    "paper_order": 3,
+    "title": "Building Trust by Supporting Situation Awareness: Exploring Pilots' Design Requirements for Decision Support Tools",
+    "authors": "Cara Storath, Zelun Tony Zhang, Yuanting Liu and Heinrich Hussmann",
+    "type": "long",
+    "is_encore": false
+  },
+  {
+    "paper_id": 55,
+    "session_id": 0,
+    "paper_order": 1,
+    "title": "Should I Follow AI-based Advice? Measuring Appropriate Reliance in Human-AI Decision-Making",
+    "authors": "Max Schemmer, Patrick Hemmer, Niklas K\u00fchl, Carina Benz and Gerhard Satzger",
+    "type": "long",
+    "is_encore": false
+  },
+  {
+    "paper_id": 28,
+    "session_id": 2,
+    "paper_order": 2,
+    "title": "Addressing the Spread of Trust and Distrust in Distributed Human-AI Teaming Constellations",
+    "authors": "Beau Schelble, Christopher Flathmann, Matthew Scalia, Shiwen Zhou, Christopher Myers, Nathan McNeese, Jamie Gorman and Guo Freeman",
+    "type": "long",
+    "is_encore": false
+  },
+  {
+    "paper_id": 29,
+    "session_id": 1,
+    "paper_order": 1,
+    "title": "Impact of Awareness Cues on Trust in Human-AI Shared Control",
+    "authors": "Gabriele Cimolino, Carl Gutwin and T.C. Nicholas Graham",
+    "type": "long",
+    "is_encore": false
+  },
+  {
+    "paper_id": 43,
+    "session_id": 1,
+    "paper_order": 2,
+    "title": "Exploring How Anomalous Model Input and Output Alerts Affect Decision-Making in Healthcare",
+    "authors": "Marissa Radensky, Dustin Burson, Rajya Bhaiya and Daniel Weld",
+    "type": "long",
+    "is_encore": false
+  },
+  {
+    "paper_id": 59,
+    "session_id": 1,
+    "paper_order": 3,
+    "title": "The Disagreement Problem in Explainable Machine Learning: A Practitioner's Perspective",
+    "authors": "Satyapriya Krishna, Tessa Han, Alex Gu, Javin Pombra, Shahin Jabbari, Zhiwei Steven Wu and Himabindu Lakkaraju",
+    "type": "long",
+    "is_encore": false
+  },
+  {
+    "paper_id": 52,
+    "session_id": 2,
+    "paper_order": 1,
+    "title": "The Look of Trust: How Does Physical Embodiment Shape Trust in Human-Agent Interaction?",
+    "authors": "Angel Hsing-Chi Hwang",
+    "type": "long",
+    "is_encore": false
+  },
+  {
+    "paper_id": 26,
+    "session_id": 2,
+    "paper_order": 0,
+    "title": "Vulnerability, Trust, and AI",
+    "authors": "Ahmer Arif and Os Keyes",
+    "type": "long",
+    "is_encore": false
+  },
+  {
+    "paper_id": 11,
+    "session_id": 0,
+    "paper_order": 2,
+    "title": "MATCH: A Conceptual Model on Trust Judgments in AI Towards Designing for Responsible Trust",
+    "authors": "Q. Vera Liao and S. Shyam Sundar",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 21,
+    "session_id": 0,
+    "paper_order": 3,
+    "title": "The Value of Measuring Trust in AI \u2013 A Socio-Technical System Perspective",
+    "authors": "Michaela Benk, Suzanne Tolmeijer, Florian von Wangenheim and Andrea Ferrario",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 25,
+    "session_id": 0,
+    "paper_order": 4,
+    "title": "Behavioral Measures of Trust in Human-autonomy Teams",
+    "authors": "Daniel Gonzalez, David Piorkowski and David Mendonca",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 33,
+    "session_id": 2,
+    "paper_order": 4,
+    "title": "Trust and explainability as tools for improving automated writing evaluation",
+    "authors": "Maria Goldshtein, Erin Chiou, Amin Alhashim and Rod Roscoe",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 45,
+    "session_id": 1,
+    "paper_order": 4,
+    "title": "How Can AI Earn Trust of System Administrators in the IT-Security Domain?",
+    "authors": "Daria Soroko, Gian-Luca Savino and Nicholas Gray",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 46,
+    "session_id": 0,
+    "paper_order": 5,
+    "title": "Review: Mathematical Models for Trust in Human-Automation Interactions",
+    "authors": "Lucero Rodriguez Rodriguez, Carlos Bustamante Orellana, Yun Kang, Erin Chiou and Lixiao Huang",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 53,
+    "session_id": 0,
+    "paper_order": 6,
+    "title": "Perceive, Understand & Predict - Empirical Indication for Facets in Subjective Information Processing Awareness",
+    "authors": "Tim Schrills, Mona Bickel, Susanne Kargl and Thomas Franke",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 48,
+    "session_id": 1,
+    "paper_order": 5,
+    "title": "Beyond General Purpose Machine Translation: The Need for Context-specific Empirical Research to Design for Appropriate User Trust",
+    "authors": "Wesley Hanwen Deng, Nikita Mehandru, Samantha Roberston and Niloufar Salehi",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 23,
+    "session_id": 2,
+    "paper_order": 5,
+    "title": "Understanding non-adoption of ``optimal'' algorithmic tips for problem-solving: how people view and use tips and the barriers they encounter",
+    "authors": "David Lee and Wichinpong Park Sinchaisri",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 27,
+    "session_id": 1,
+    "paper_order": 6,
+    "title": "Doubting AI Predictions: Influence-Driven Second Opinion Recommendation",
+    "authors": "Maria De-Arteaga, Alexandra Chouldechova and Artur Dubrawski",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 30,
+    "session_id": 2,
+    "paper_order": 6,
+    "title": "Trust in AI in Under-resourced Environments: Lessons from Local Journalism",
+    "authors": "Marianne Aubin Le Quere and Maurice Jakesch",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 42,
+    "session_id": 0,
+    "paper_order": 12,
+    "title": "Towards a Framework for Evaluating Trust Based on User Confidence in Outcomes in the Human-AI Collaboration Setting",
+    "authors": "Submission        Joshua Boley, Katelyn Kozinski and Maoyuan Sun",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 7,
+    "session_id": 2,
+    "paper_order": 12,
+    "title": "AI for human assessment: What do professional assessors need?",
+    "authors": "Riku Arakawa and Hiromu Yakura.",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 40,
+    "session_id": 0,
+    "paper_order": 7,
+    "title": "Are we measuring trust correctly in explainability, interpretability, and transparency research?",
+    "authors": "Tim Miller",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 57,
+    "session_id": 2,
+    "paper_order": 7,
+    "title": "Towards Understanding Trust and Reassurance in Human-Robot Teams: A User Study with a UV-C Disinfection Robot",
+    "authors": "Maria Jose Galvez Trigo, Joel Fischer, Horia Maior, Dominic Price, Pauline Leonard, Chira Tochia, Richard Hyde and Nicholas Watson.",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 17,
+    "session_id": 2,
+    "paper_order": 8,
+    "title": "Towards a Framework for Trust in Clinical AI: Expanding the Unit of Analysis",
+    "authors": "Jacob Browne, Saskia Bakker, Bin Yu, Jeroen Raijmakers, Jon Pluyter, Nick Ruijs and Eva Deckers",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 32,
+    "session_id": 0,
+    "paper_order": 8,
+    "title": "Exploring Trust Indicators in Human-Agent Conversation with Epistemic Network Analysis",
+    "authors": "Mengyao Li, Varshini Kamaraj and John Lee",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 44,
+    "session_id": 1,
+    "paper_order": 7,
+    "title": "When Do XAI Methods Work? A Cost-Benefit Approach to Human-AI Collaboration",
+    "authors": "Helena Vasconcelos, Matthew J\u00f6rke, Madeleine Grunde-McLaughlin, Ranjay Krishna, Tobias Gerstenberg and Michael Bernstein",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 51,
+    "session_id": 0,
+    "paper_order": 9,
+    "title": "Towards a Generalized Scale to Measure Situational Trust in AI Systems",
+    "authors": "Lena Dolinek and Philipp Wintersberger",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 13,
+    "session_id": 2,
+    "paper_order": 13,
+    "title": "User Trust on an Explainable AI-based Medical Diagnosis Support System",
+    "authors": "Yao Rong, Nora Castner, Efe Bozkir and Enkelejda Kasneci",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 15,
+    "session_id": 1,
+    "paper_order": 10,
+    "title": "Walking on Eggshells: Using Analogies to Promote Appropriate Reliance in Human-AI Decision Making",
+    "authors": "Gaole He and Ujwal Gadiraju",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 20,
+    "session_id": 0,
+    "paper_order": 10,
+    "title": "Trust and Reliance in XAI - Distinguishing Between Attitudinal and Behavioral Measures",
+    "authors": "Nicolas Scharowski, Sebastian A. C. Perrig, Nick von Felten and Florian Br\u00fchlmann",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 5,
+    "session_id": 1,
+    "paper_order": 11,
+    "title": "Teaching Humans When To Defer to a Classifier via Exemplars",
+    "authors": "Hussein Mozannar, Arvind Satyanarayan and David Sontag",
+    "type": "short",
+    "is_encore": true
+  },
+  {
+    "paper_id": 9,
+    "session_id": 0,
+    "paper_order": 13,
+    "title": "Dynamics of Human Trust in Recommender Systems",
+    "authors": "Jason Harman, John O'Donovan, Tarek Abdelzaher and Cleotilde Gonzalez",
+    "type": "short",
+    "is_encore": true
+  },
+  {
+    "paper_id": 12,
+    "session_id": 2,
+    "paper_order": 9,
+    "title": "Investigations of Performance and Bias in Human-AI Teamwork in Hiring",
+    "authors": "Andi Peng, Besmira Nushi, Emre Kiciman, Kori Inkpen and Ece Kamar",
+    "type": "short",
+    "is_encore": true
+  },
+  {
+    "paper_id": 14,
+    "session_id": 1,
+    "paper_order": 12,
+    "title": "Exploring the Effect of Value Similarity on Trust in Human-AI Interaction",
+    "authors": "Siddharth Mehrotra, Catholijn M. Jonker and Myrthe L. Tielman",
+    "type": "short",
+    "is_encore": true
+  },
+  {
+    "paper_id": 31,
+    "session_id": 1,
+    "paper_order": 13,
+    "title": "Do Exact Explanations Make a Difference? A Case Study Among Weight Management Experts",
+    "authors": "Glenn Fernandes, Arthur Choi, Maia Jacobs, Adnan Darwiche and Nabil Alshurafa",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 36,
+    "session_id": 0,
+    "paper_order": 11,
+    "title": "Pragmatic delegation of work by humans and machines",
+    "authors": "Jordan Suchow and Jeffrey Nickerson",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 37,
+    "session_id": 2,
+    "paper_order": 10,
+    "title": "Improving Human-AI Partnerships in Child Welfare: Understanding Worker Practices, Challenges, and Desires for Algorithmic Decision Support",
+    "authors": "Anna Kawakami, Venkatesh Sivaraman, Hao-Fei Cheng, Logan Stapleton, Yanghuidi Cheng, Diana Qing, Adam Perer, Zhiwei Steven Wu, Haiyi Zhu and Kenneth Holstein",
+    "type": "short",
+    "is_encore": true
+  },
+  {
+    "paper_id": 38,
+    "session_id": 1,
+    "paper_order": 8,
+    "title": "An Empirical Investigation of Reliance on AI-Assistance in a Noisy-Image Classification Task",
+    "authors": "Aakriti Kumar, Heliodoro Tejeda Lemus and Mark Steyvers",
+    "type": "short",
+    "is_encore": false
+  },
+  {
+    "paper_id": 58,
+    "session_id": 2,
+    "paper_order": 11,
+    "title": "Recognizing the Problem of High Trust",
+    "authors": "Shivani Kapania",
+    "type": "short",
+    "is_encore": true
+  },
+  {
+    "paper_id": 24,
+    "session_id": 1,
+    "paper_order": 9,
+    "title": "Trust and Reliance in Human-AI Collaborative Text Summarization",
+    "authors": "Ruijia Cheng, Alison Smith-Renner, Ke Zhang, Joel Tetreault and Alejandro Jaimes",
+    "type": "short",
+    "is_encore": false
+  }
+]
